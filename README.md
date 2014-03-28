@@ -1,0 +1,4 @@
+ejemploGrails
+=============
+
+Ejemplo para grails
